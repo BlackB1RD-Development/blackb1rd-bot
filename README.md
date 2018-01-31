@@ -10,7 +10,7 @@
 </div>
 
 ## About
-BlackB1RD-BOT is a powerful [discord.js](https://discord.js.org) bot with over **150 commands** and **3 customize systems** that build-in the bot !
+BlackB1RD-BOT is a powerful [discord.js](https://discord.js.org) bot with over **150 commands** and **3 customize systems** that built-in the bot !
 
 - Custom server system.
 - Economy, Ranking, level and xp system.
