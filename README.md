@@ -20,7 +20,7 @@ BlackB1RD-BOT is a powerful [discord.js](https://discord.js.org) bot with over *
 This repository is mainly for issue reports & translations support.
 
 ## Links
-* [Website](https://blackb1rd.glitch.me/)
+* [Website](https://blackb1rd-bot.glitch.me/)
 * [Discord server](https://discord.gg/STb2qKT)
 
 ## Help & Support
