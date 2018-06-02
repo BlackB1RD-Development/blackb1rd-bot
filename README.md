@@ -7,6 +7,21 @@
   <a href="https://discord.gg/STb2qKT">
     <img src="https://discordapp.com/api/guilds/335676791517741066/widget.png" alt="BlackB1RD-BOT Official Discord Server" style="max-width:100%;">
   </a>
+  <a href="https://discordbots.org/bot/366685401156681729" >
+    <img src="https://discordbots.org/api/widget/status/366685401156681729.svg" alt="BlackB1RD-BOT" />
+  </a>
+  <a href="https://discordbots.org/bot/366685401156681729" >
+    <img src="https://discordbots.org/api/widget/servers/366685401156681729.svg" alt="BlackB1RD-BOT" />
+  </a>
+  <a href="https://discordbots.org/bot/366685401156681729" >
+    <img src="https://discordbots.org/api/widget/upvotes/366685401156681729.svg" alt="BlackB1RD-BOT" />
+  </a>
+  <a href="https://discordbots.org/bot/366685401156681729" >
+    <img src="https://discordbots.org/api/widget/lib/366685401156681729.svg" alt="BlackB1RD-BOT" />
+  </a>
+  <a href="https://discordbots.org/bot/366685401156681729" >
+    <img src="https://discordbots.org/api/widget/owner/366685401156681729.svg" alt="BlackB1RD-BOT" />
+  </a>
 </div>
 
 ## About
