@@ -1,0 +1,123 @@
+{
+  "commands": {
+    "apis": {
+      "bitly": {},
+      "giphy": {},
+      "github": {},
+      "iplookup": {},
+      "mdn": {},
+      "npm": {},
+      "urban": {},
+      "weather": {}
+    },
+    "coding": {
+      "applications": {},
+      "codeblocks": {},
+      "commandshandler": {},
+      "cr": {},
+      "docs": {},
+      "learnjs": {},
+      "libraries": {},
+      "linters": {},
+      "master": {},
+      "permissions": {},
+      "servers": {},
+      "tos": {}
+    },
+    "configurations": {
+      "remove": {},
+      "set": {},
+      "settings": {}
+    },
+    "economy": {
+      "balance": {},
+      "bitcoin": {},
+      "daily": {},
+      "send": {},
+      "setbalance": {}
+    },
+    "fun": {
+      "8ball": {},
+      "bill": {},
+      "coinflip": {},
+      "flip": {},
+      "leet": {},
+      "reverse": {},
+      "roll": {},
+      "shoot": {},
+      "slot": {},
+      "virus": {}
+    },
+    "general": {
+      "hey": {},
+      "ping": {},
+      "test": {},
+      "uptime": {}
+    },
+    "imageGen": {
+      "blame": {},
+      "brazzers": {},
+      "cancer": {},
+      "jail": {},
+      "pride": {},
+      "slap": {},
+      "triggered": {}
+
+    },
+    "information": {
+      "botinfo": {},
+      "channelinfo": {},
+      "serverinfo": {},
+      "stats": {},
+      "userinfo": {}
+    },
+    "moderation": {
+      "ban": {},
+      "cc": {},
+      "delete": {},
+      "kick": {},
+      "mute": {},
+      "softban": {},
+      "unban": {},
+      "unmute": {},
+      "warn": {}
+    },
+    "owner": {
+      "blacklist": {},
+      "eval": {},
+      "fakeleave": {},
+      "leave": {},
+      "reload": {},
+      "say": {},
+      "serverslist": {},
+      "setactivity": {},
+      "setstatus": {},
+      "shutdown": {},
+      "webhook": {},
+      "whitelist": {}
+
+    },
+    "util": {
+      "announce": {},
+      "avatar": {},
+      "cinvite": {},
+      "emojis": {},
+      "help": {},
+      "leaderboard": {},
+      "links": {},
+      "noob": {},
+      "profile": {},
+      "rep": {},
+      "report": {},
+      "role": {},
+      "roles": {},
+      "rules": {},
+      "strawpoll": {},
+      "suggest": {},
+      "translate": {},
+      "upvote": {},
+      "vote": {}
+    },
+    "music": {}
+  }
+}
