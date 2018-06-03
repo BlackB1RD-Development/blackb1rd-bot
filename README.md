@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://blackb1rd.glitch.me/" target="_blank">
-    <img src="https://cdn.discordapp.com/avatars/366685401156681729/6f1eabaed1412ecb5224442436879709.png" alt="BlackB1RD-BOT" />
+    <img src="https://i.imgur.com/ahnyTnV.jpg" alt="BlackB1RD-BOT" />
   </a>
   <br>
   <br>
