@@ -25,13 +25,14 @@
 </div>
 
 ## About
-BlackB1RD-BOT is a powerful [discord.js](https://discord.js.org) bot with over **150 commands** and **3 customize systems** that built-in the bot !
+BlackB1RD-BOT is a powerful [discord.js](https://discord.js.org) bot with over **150 commands** and **4 systems** that built-in the bot!
 
-- Custom server system.
 - Economy, Ranking, level and xp system.
+- Custom server system.
 - Moderation System.
+- Music System
 
-## What is this repository for ?!?!
+## What is this repository for?!?!?
 This repository is mainly for issue reports & translations support.
 
 ## Links
